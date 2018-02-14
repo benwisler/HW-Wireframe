@@ -1,0 +1,56 @@
+body{
+    width: 960px;
+    margin: 20px auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    background: #777;
+}
+header {
+    border-style: solid;
+    text-align: center;
+    width: 940px;
+    height: 95px;
+    margin: auto;
+    background: #ebebeb;
+    color: #777;
+}
+nav {
+    text-align: center;
+    width: 940px;
+    height: 95px;
+    margin: auto;
+    background: #ebebeb;
+    color: #777;
+}
+aside {
+    text-align: center;
+    background: #ebebeb;
+    right: 0;
+    height: 290px;
+    float:right;
+    margin: auto;
+    width: 445px;
+    color: #777;
+}
+section {
+    text-align: center;
+    background: #ebebeb;
+    height: 290px;
+    float:left;
+    margin: auto;
+    width: 495px;
+    color: #777;
+
+}
+
+footer {
+    clear: both;
+    background: #ebebeb;
+    color: #777;
+    text-align: center;
+    width: 940px;
+    height: 95px;
+    bottom: 0;
+    position: relative;
+
+}
